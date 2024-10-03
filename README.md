@@ -1,6 +1,7 @@
 ![grafik](https://github.com/user-attachments/assets/edf584fa-8c91-4e7e-bf0c-b0c17d2bbe03)
 
-My Rust crates for crates.io: https://crates.io/users/772
+My Rust crates for crates.io:
+- https://crates.io/users/772
 
 Vanilla JavaScript tools:
 - https://772.github.io/german-leaf-quiz/
