@@ -3,7 +3,7 @@
 My Rust crates for crates.io:
 - https://crates.io/users/772
 
-Vanilla JavaScript tools:
+My Vanilla JavaScript tools:
 - https://772.github.io/german-leaf-quiz/
 - https://772.github.io/text-to-graph-of-a-function/
 - https://772.github.io/force-physical-location-visit/
