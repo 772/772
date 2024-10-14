@@ -4,7 +4,7 @@ My Rust crates for crates.io:
 - https://crates.io/users/772
 
 My Vanilla JavaScript tools:
-- https://772.github.io/german-leaf-quiz/ (Grau-Erle und Speierling fehlen leider noch. Beide bisher noch nicht gefunden. :| )
+- https://772.github.io/german-leaf-quiz/ (Grau-Erle und Speierling fehlen leider noch.)
 - https://772.github.io/text-to-graph-of-a-function/
 - https://772.github.io/force-physical-location-visit/
 
