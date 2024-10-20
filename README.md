@@ -7,6 +7,7 @@ My Vanilla JavaScript tools:
 - https://772.github.io/german-leaf-quiz/ (Grau-Erle und Speierling fehlen leider noch.)
 - https://772.github.io/text-to-graph-of-a-function/
 - https://772.github.io/force-physical-location-visit/
+- https://772.github.io/772-training
 
 Other experiments:
 - [a(n) is the largest k such that no subsequence of n numbers appears more than once in the sequence of the first k prime gaps while overlapping subsequences are allowed.](https://github.com/772/A344865-integer-sequence)
