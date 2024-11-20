@@ -19,3 +19,4 @@ Small Rust experiments:
 - [a(n) is the largest k such that no subsequence of n numbers appears more than once in the sequence of the first k prime gaps while overlapping subsequences are allowed.](https://github.com/772/A344865-integer-sequence)
 - [A directed graph able to generate the first nine primes.](https://github.com/772/prime-generating-directed-graph)
 - [This is an interactive Word-RAM. ](https://github.com/772/word-ram)
+- [Algebraic functions for the simulation of a Turing machine with d memory cells. ](https://github.com/772/Only-Algebraic-Functions)
